@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We are Astral Project</h1>
-<h3 align="center">A Minecraft 1.20 Vanilla Server. Based on Astral theme</h3>
+<h3 align="center">A Minecraft 1.20.4 Vanilla Server. Based on Astral theme</h3>
 
 - 🔭We are currently working on **the concept of our server**
 
